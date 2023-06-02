@@ -1,0 +1,18 @@
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\bin\Debug\net6.0-windows\WinForms Wordpad Killer Homework.exe
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\bin\Debug\net6.0-windows\WinForms Wordpad Killer Homework.deps.json
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\bin\Debug\net6.0-windows\WinForms Wordpad Killer Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\bin\Debug\net6.0-windows\WinForms Wordpad Killer Homework.dll
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\bin\Debug\net6.0-windows\WinForms Wordpad Killer Homework.pdb
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms_Wordpad_Killer_Homework.Form1.resources
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.dll
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\refint\WinForms Wordpad Killer Homework.dll
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.pdb
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms Wordpad Killer Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\ref\WinForms Wordpad Killer Homework.dll
+C:\Users\hasan\source\repos\WinForms Wordpad Killer Homework\WinForms Wordpad Killer Homework\obj\Debug\net6.0-windows\WinForms_Wordpad_Killer_Homework.Properties.Resources.resources
